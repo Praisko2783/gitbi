@@ -1,0 +1,1 @@
+console.log("Mezu hau ahantzi dut aurreko gordeketan");
